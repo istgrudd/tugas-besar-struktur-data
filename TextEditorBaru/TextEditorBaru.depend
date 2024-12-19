@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1734604414 source:d:\visual studio\cprogs\tugas besar\newtexteditor\texteditorbaru\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"DoublyLinkedList.h"
+	"StackText.h"
+	"SinglyLinkedList.h"
+	"MultiLinkedList.h"
+	<cstdlib>
+
+1734604414 d:\visual studio\cprogs\tugas besar\newtexteditor\texteditorbaru\doublylinkedlist.h
+	<string>
+	<iostream>
+	"SinglyLinkedList.h"
+
+1734602123 d:\visual studio\cprogs\tugas besar\newtexteditor\texteditorbaru\stacktext.h
+	"DoublyLinkedList.h"
+	<iostream>
+
+1734604576 d:\visual studio\cprogs\tugas besar\newtexteditor\texteditorbaru\singlylinkedlist.h
+	<string>
+	<iostream>
+
+1734604576 d:\visual studio\cprogs\tugas besar\newtexteditor\texteditorbaru\multilinkedlist.h
+	<string>
+
+1734604576 source:d:\visual studio\cprogs\tugas besar\newtexteditor\texteditorbaru\multilinkedlist.cpp
+	"MultiLinkedList.h"
+	<iostream>
+
+1734604414 source:d:\visual studio\cprogs\tugas besar\newtexteditor\texteditorbaru\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	"SinglyLinkedList.h"
+
+1734604414 source:d:\visual studio\cprogs\tugas besar\newtexteditor\texteditorbaru\singlylinkedlist.cpp
+	"SinglyLinkedList.h"
+	<iostream>
+
+1734602123 source:d:\visual studio\cprogs\tugas besar\newtexteditor\texteditorbaru\stacktext.cpp
+	"StackText.h"
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="DoublyLinkedList.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1796" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="DoublyLinkedList.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="284" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="MultiLinkedList.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="629" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="SinglyLinkedList.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="254" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="StackText.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="178" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="StackText.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="257" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="MultiLinkedList.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="800" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="SinglyLinkedList.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="135" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="448" topLine="15" />
+		</Cursor>
+	</File>
+	<Target name="Debug" top="main.cpp">
+		<File name="StackText.cpp" />
+		<File name="DoublyLinkedList.cpp" />
+		<File name="SinglyLinkedList.cpp" />
+		<File name="main.cpp" />
+		<File name="MultiLinkedList.cpp" />
+		<File name="DoublyLinkedList.h" />
+		<File name="MultiLinkedList.h" />
+		<File name="SinglyLinkedList.h" />
+		<File name="StackText.h" />
+	</Target>
+</CodeBlocks_layout_file>
